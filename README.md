@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lady Emily</h1>
-<h3 align="center">An aspiring developer from Singapore</h3>
+<h3 align="center">An aspiring systems developer from Ghana</h3>
 
 <p align="left"> <a href="https://twitter.com/ladyemilyyy" target="blank"><img src="https://img.shields.io/twitter/follow/ladyemilyyy?logo=twitter&style=for-the-badge" alt="ladyemilyyy" /></a> </p>
 
