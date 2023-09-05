@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lady Emily</h1>
 <h3 align="center">An aspiring developer from Singapore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ladyemilyy" alt="ladyemilyy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ladyemilyyy" target="blank"><img src="https://img.shields.io/twitter/follow/ladyemilyyy?logo=twitter&style=for-the-badge" alt="ladyemilyyy" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
