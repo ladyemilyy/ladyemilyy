@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ladyemilyyy" target="blank"><img src="https://img.shields.io/twitter/follow/ladyemilyyy?logo=twitter&style=for-the-badge" alt="ladyemilyyy" /></a> </p>
 
-- 🌱 I’m currently learning **C++, JS**
+- 🌱 I’m currently learning **C++, JS, Ruby**
 
 - 📫 How to reach me **equarsh33@gmail.com**
 
