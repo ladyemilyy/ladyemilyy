@@ -74,7 +74,11 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <!-- Removed github-readme-stats images due to service errors; keeping streak card which is currently working -->
+  <!-- Replaced dynamic cards with reliable shields; streak card retained -->
+  <a href="https://github.com/ladyemilyy">
+    <img src="https://img.shields.io/github/followers/ladyemilyy?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/last-commit/ladyemilyy/ladyemilyy?style=for-the-badge" />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ladyemilyy&theme=onedark&hide_border=true" 
     height="180"
