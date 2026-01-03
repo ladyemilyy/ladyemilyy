@@ -74,20 +74,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ladyemilyy&show_icons=true&theme=onedark&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladyemilyy&layout=compact&theme=onedark&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
+  <!-- Removed github-readme-stats images due to service errors; keeping streak card which is currently working -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ladyemilyy&theme=onedark&hide_border=true" 
     height="180"
