@@ -95,3 +95,7 @@
 </p>
 
 <hr/>
+
+<p align="center">
+  <i>Quality isn’t accidental — it’s tested.</i>
+</p>
