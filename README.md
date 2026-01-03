@@ -11,8 +11,6 @@
 
 <hr/>
 
-<hr/>
-
 <!-- 👩🏽‍💻 About -->
 <p align="center">
   🌱 Learning <b>Quality Assurance & Testing</b><br/>
@@ -78,4 +76,4 @@
   />
 </p>
 
-<hr/>
+<!-- End -->
